@@ -63,7 +63,9 @@ body {
     padding: 8px;
     background-color: rgb(150, 103, 103);
     margin-bottom: 5px;
-    width: 800px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 100px;
 }
 
 .elemento2 a:hover {
